@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/iPahlawan"
+        android:title="Pahlawan"
+        android:icon="@drawable/ic_star_black_24dp"
+        />
+    <item
+        android:id="@+id/iBiodata"
+        android:title="Biodata"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        />
+</menu>
